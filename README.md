@@ -1,5 +1,5 @@
 
-# Graphical-Password-Authentication
+# Graphical Password Authentication System
 
 A team of four has developed this Graphical Password Authentication System.
 
